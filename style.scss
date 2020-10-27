@@ -18,6 +18,7 @@ nac span{
     display: inline-block;
     padding: 10px 30px;
     cursor: #fff;
+    font-size: 24px;
 }
 
 section{
@@ -30,7 +31,7 @@ section{
 section:nth-of-type(2) {
     background: #992233;
 }
-#top {
+#toTop {
     padding: fixed;
     right: 30px;
     bottom: 30px;
